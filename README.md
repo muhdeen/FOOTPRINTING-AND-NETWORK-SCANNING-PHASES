@@ -148,11 +148,23 @@ For footprinting, I used six Kali Linux tools: WHOIS (domain details), WhatWeb (
 In network scanning, I used Zenmap to identify active hosts, IP/MAC addresses, and create a network topology, showing how scanning reveals devices and connections within an environment.
 Overall, these exercises highlighted that information gathering is a critical first step in cybersecurity testing. Clear documentation of findings, their significance, and mitigation recommendations is essential. Finally, all activities must remain within authorized scope, as practiced in the controlled lab environment.
   
+Evidences : Below are the screenshots of the project:
+
+<img width="960" height="540" alt="Screenshot -maltego" src="https://github.com/user-attachments/assets/cc68c957-79b1-416e-84b5-625a0afd6995" />
+<img width="651" height="462" alt="Screenshot 2026-09-23 202837 nmap" src="https://github.com/user-attachments/assets/58d48f09-9d4a-4e08-abb6-ca741f32eb02" />
+<img width="564" height="502" alt="Screenshot 2026-09-22 zenmap" src="https://github.com/user-attachments/assets/e6885a88-69e4-44a1-ace3-fbd957d35a0d" />
+<img width="949" height="540" alt="Screenshot 2026-09-22 MALTEGO" src="https://github.com/user-attachments/assets/f9d06bb3-2195-4360-8bde-8fe916178bb5" />
+<img width="718" height="496" alt="Screenshot 2026-09-21 162701   TheHarvester" src="https://github.com/user-attachments/assets/27e61d27-d259-40cf-91e2-1bc10c21268d" />
+<img width="956" height="505" alt="Screenshot 2026-09-20 204108 Q6" src="https://github.com/user-attachments/assets/d25375bd-fa4b-43e2-9e7f-0f83fd3c9add" />
+<img width="960" height="524" alt="Screenshot 2026-09-20 203437 Q5" src="https://github.com/user-attachments/assets/819b846c-aa2d-4221-861b-0265fd19d872" />
+<img width="960" height="522" alt="Screenshot 2026-09-20 203204 Q4" src="https://github.com/user-attachments/assets/d7d2866f-ec62-4275-b0aa-038415ee9acf" />
+<img width="959" height="534" alt="Screenshot 2026-09-20 202926 Q3" src="https://github.com/user-attachments/assets/9f1937cb-6846-44e3-9cbb-515f44b6d2a6" />
+<img width="959" height="524" alt="Screenshot 2026-09-20 202727 Q2" src="https://github.com/user-attachments/assets/f63decea-6b70-4b7f-8c37-bbacd4be2b2a" />
+
 
  
  
-   
- 
+
   
 -End👤 Author
 Shamsuddeen Muhammad
